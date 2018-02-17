@@ -1,0 +1,66 @@
+.card {
+    margin-left: 40%;
+    margin-right: 50%;
+    background-color: rgb(247, 245, 170);
+    border: solid 0.5px blue;
+    border-style: double;
+    border-width: 5px;
+    border-radius: 15px;
+    padding: 10px;
+    width: 340px;
+}
+.name {
+    font-family:'Trebuchet MS', sans-serif;
+    font-style: italic;
+}
+h3 {
+    text-align: center;
+    border: solid;
+    border-radius: 4em;
+    border-color: blue;
+    font-family: 'Lucida Sans', sans-serif;
+    margin: 5px;
+    text-shadow: 2px 2px rgba(11, 85, 182, 0.644);
+    letter-spacing: 3px;
+    background-color: rgb(252, 177, 255);
+}
+.fun-fact {
+    font-style: italic;
+    margin: 7px;
+    text-indent: 2px;
+}
+p {
+    padding: 5px;
+}
+span {
+    font-weight: bold;
+    color: rgb(16, 10, 39);
+    font-family:  'Open Sans', sans-serif;
+    text-decoration: underline;
+}
+ul {
+    list-style: none;
+    text-align: initial;
+    padding: 5px;
+}
+li {
+    font-family: 'Lucida', sans-serif;
+}
+.scientific-name {
+    font-style: italic;
+}
+img {
+    display: block;
+    margin: 0 auto;
+    width: 300px;
+    border: solid 0.5px;
+    border-color: rgb(197, 196, 113);
+}
+.info {
+    border: groove 0.5px;
+    border-color: rgb(39, 75, 238);
+    margin: 5px;
+    text-indent: 2px;
+    font-family: 'Trebuchet MS', sans-serif;
+    text-align: justify;
+}
