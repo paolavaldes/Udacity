@@ -1,12 +1,16 @@
 .card {
-    margin-left: 40%;
-    margin-right: 50%;
+    margin-left: 38%;
+    margin-right: 60%;
+    aling-content: center;
     background-color: rgb(247, 245, 170);
-    border: 0.5px double blue;
+    border: double blue;
     border-width: 5px;
     border-radius: 15px;
     padding: 10px;
     width: 340px;
+    max-width: 100%;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 .name {
